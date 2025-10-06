@@ -1,0 +1,12 @@
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore build files
+.buildozer/
+bin/
+build/
+dist/
+
+# Ignore sensitive configuration
+tara_app/config.py
